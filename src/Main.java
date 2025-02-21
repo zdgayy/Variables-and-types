@@ -20,7 +20,7 @@ public class Main{
         
         System.out.println("Now playing another song");
         anotherMbox.playSong(anotherMbox.getSongID(), anotherMbox.getPremiumSong(), 1);
-    
+        System.out.println("Now playing another song");
 
     }
 }
