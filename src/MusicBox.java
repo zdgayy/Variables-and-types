@@ -59,13 +59,6 @@ public class MusicBox {
     public String getSongProducer() {
         return songProducer;
     }
-
-    public String getSongMusicLabel() {
-        return songMusicLabel;  
-    }
-    public int getNoAds() {
-        return noAds;
-    }
     
 
 
